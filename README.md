@@ -9,3 +9,4 @@ Projects:
 - ✅ Calculator
 - ✅ Inventory System (JSON Save)
 - ✅ Casino
+- ✅ TODO Tasks (JSON Save)
